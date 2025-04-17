@@ -21,8 +21,6 @@
 
 - 📫 Reach me at **sakshitmeshram2001@gmail.com**
 
-- 📄 Know more about my work [Resume](mailto:sakshitmeshram2001@gmail.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sakshit-meshram-8a9086253/" target="blank">
